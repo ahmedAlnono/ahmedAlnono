@@ -15,6 +15,6 @@ I build complete web applications from database to user interface. Currently see
 - Advanced React patterns
 
 ### 📫 Let's Connect
-- Portfolio: (link)
-- LinkedIn: (link)
+- Portfolio: https://ahmedAlnono.github.io/portfolio
+- LinkedIn: https://www.linkedin.com/in/ahmed-alnono-187b09251/
 - Email: ahmed.alnono@gmail.com
